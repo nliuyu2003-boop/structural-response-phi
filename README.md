@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17926961.svg)](https://doi.org/10.5281/zenodo.17926961)
 # Structural Response Quantity Φ (Phi)
 
 A universal structural tool for determining whether a system can still produce new verifiable information under increased external input.
