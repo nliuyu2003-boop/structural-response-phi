@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Structural Response Quantity Φ (Phi)"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Liu
+    given-names: Yu
+doi: 10.5281/zenodo.17926961
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/nliuyu2003-boop/structural-response-phi"
